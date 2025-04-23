@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    margin-top: 50%;
+    font-family: cursive;
+    color: aqua;
+    text-decoration: overline;
+}
+
+
+body {
+    background-color: black;
+}
+
+
+h1:hover {
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+}
